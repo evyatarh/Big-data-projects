@@ -1,5 +1,5 @@
 #Exercise 3 - Big Data
-#Evyatar Hai - 203784939
+
 
 library(data.table)
 library(dplyr)
